@@ -10,4 +10,7 @@ as various colors on the RGB LED.
 
 The header files and main function was written in C, and the supporting
 functions for routing I/O on the sensors was written in ARMv7 assembly to
-practice developing code for limited memory applications.
+practice developing code for limited memory applications. It's not the most
+well-organized code I've written as it was written about a year and a half ago,
+but it shows that I am familiar coding systems that integrate hardware sensors
+to accomplish a task.
